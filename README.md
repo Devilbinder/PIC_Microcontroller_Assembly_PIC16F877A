@@ -5,6 +5,7 @@ This is the supporting repository for the PIC microcontroller assembly programmi
 # *Video playlist*
 
 [![PIC Microcontroller Assembly Programming PIC16F877A](https://www.youtube.com/watch?v=N36CCP9rcuM&list=PLtuqBdbsL-DuQB1DQAowWUEhTdI4KCVIZ "PIC Microcontroller Assembly Programming PIC16F877A")
+[![PIC Microcontroller Assembly Programming PIC16F877A Playlist](https://img.youtube.com/vi/N36CCP9rcuM/0.jpg)](https://www.youtube.com/watch?v=N36CCP9rcuM&list=PLtuqBdbsL-DuQB1DQAowWUEhTdI4KCVIZ "PIC Microcontroller Assembly Programming PIC16F877A Playlist")
 
 
 ☕Coffee Funds☕.
