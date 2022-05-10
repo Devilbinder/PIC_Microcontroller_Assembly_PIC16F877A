@@ -1,0 +1,4 @@
+*.kicad_prl
+*.pro
+*.sch
+hardware-backups
