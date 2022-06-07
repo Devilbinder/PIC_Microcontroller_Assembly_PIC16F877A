@@ -238,7 +238,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "hardware.kicad_pro",
+    "filename": "blink.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -317,7 +317,7 @@
   },
   "sheets": [
     [
-      "2dc8e479-2566-424f-a6dd-b4b2d6ccbee9",
+      "7c620201-d404-40d6-a50b-1c1cffa77974",
       ""
     ]
   ],
